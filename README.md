@@ -1,2 +1,2 @@
 # YouDown
-YouDown is a very fast Youtube video downloader 
+YouDown is the fastest Youtube video downloader (faster than IDM  ^_^ ) 
